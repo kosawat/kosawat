@@ -41,7 +41,7 @@
 
 ### 📬 Let's Connect!
 
-💼 [LinkedIn Profile](https://www.linkedin.com/in/kosawat-sukchaya-10290427/) - Check out my professional journey
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/kosawat-sukchaya-10290427/) - Check out my professional journey
 
 <!--
 **kosawat/kosawat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
