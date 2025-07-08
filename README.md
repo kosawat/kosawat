@@ -4,7 +4,7 @@
 
 ### 🚀 What I'm Working On
 
-- Startup Co-founder & CTO, Building full-stack web application and product MVP
+- Startup Co-founder & CTO, Building full-stack web application, product validation, and MVP
 - Learning Python, Generative AI, LLM, Prompt Engineering
 - Exploring the intersection of technology and business innovation
 
